@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+}
+
+.botao{
+    width: 30px;
+    align-items: center;
+}
+
+#botoes{
+    display: flex;
+    padding-left: 10px;
+}
+
+form{
+    background-color: gray;
+    margin: 5em;
+    padding: 20px;
+    padding-bottom: 10em;
+    border: 3px solid black;
+}
