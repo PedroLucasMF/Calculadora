@@ -10,19 +10,28 @@ body{
 }
 
 .botao{
-    width: 30px;
+    width: 35px;
     align-items: center;
+    box-shadow: 1.5px 1.5px 0px 1px #3b3939;
+    border: 1px solid black;
 }
 
-#botoes{
+#butoes{
     display: flex;
-    padding-left: 10px;
+    justify-content: space-between;
+    margin-top: 10px;
+    
+    
 }
 
 form{
-    background-color: gray;
+    background-color: rgb(156, 146, 146);
     margin: 5em;
     padding: 20px;
     padding-bottom: 10em;
     border: 3px solid black;
+    display: flex;
+    justify-content: center center;
+    flex-direction: column;
+    box-sizing: border-box;
 }

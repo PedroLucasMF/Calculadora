@@ -1,29 +1,3 @@
-// const div = document.getElementById("quadrado")
-
-// div.addEventListener('mouseenter', azul)
-// div.addEventListener('mouseout', mudarCor)
-// div.addEventListener('mousedown', Clicou)
-// div.addEventListener('mouseup', soltou)
-
-// function mudarCor(){
-//         div.style.backgroundColor = 'purple'
-//  }
-// function azul(){
-//         div.style.backgroundColor = 'blue'
-            
-// }
-// function Clicou(){
-//         div.innerHTML =` 
-//              <ul>
-//                 <li> item1 </li>    
-//                 <li> item2 </li>    
-//                 <li> item3 </li>    
-//             </ul>
-//          `
-// }
-//  function soltou(){
-//         div.innerText=""
-// }
 
 
 
