@@ -14,12 +14,14 @@ body{
     align-items: center;
     box-shadow: 1.5px 1.5px 0px 1px #3b3939;
     border: 1px solid black;
+    border-radius: 10px;
 }
 
 #butoes{
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
+
     
     
 }
@@ -34,4 +36,5 @@ form{
     justify-content: center center;
     flex-direction: column;
     box-sizing: border-box;
+    border-radius: 10px 10px 0px 0px;
 }
